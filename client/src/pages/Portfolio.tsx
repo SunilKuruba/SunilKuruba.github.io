@@ -461,7 +461,7 @@ export default function Portfolio() {
               href="#"
               className="flex items-center gap-2 font-semibold text-lg"
              >
-              <span>Sunil Kuruba</span>
+              <span>Sunil Kuruba Portfolio</span>
             </a>
 
             {/* Desktop Navigation */}
@@ -1316,7 +1316,7 @@ export default function Portfolio() {
       <footer className="border-t bg-background">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex flex-col sm:flex-row items-center justify-between gap-2">
           <p className="text-sm text-muted-foreground text-center sm:text-left w-full sm:w-auto leading-none">
-            Sunil Kuruba - Data Engineer
+            Sunil Kuruba Portfolio
           </p>
           <p className="text-sm text-muted-foreground text-center sm:text-right w-full sm:w-auto leading-none">
             Built with passion for data
