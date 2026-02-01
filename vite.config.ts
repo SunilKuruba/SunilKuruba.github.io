@@ -13,7 +13,8 @@ export default defineConfig({
   },
   root: path.resolve(import.meta.dirname, "client"),
   publicDir: path.resolve(import.meta.dirname, "public"),
-  base: process.env.NODE_ENV === "production" ? "/portfolio/" : "/",
+  // For user/organization GitHub Pages (repo named <user>.github.io), base must be "/"
+  base: "/",
   build: {
     outDir: path.resolve(import.meta.dirname, "dist"),
     emptyOutDir: true,
