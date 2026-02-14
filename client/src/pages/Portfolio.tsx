@@ -490,7 +490,7 @@ export default function Portfolio() {
               <Button
                 size="sm"
                 className="ml-4"
-                onClick={() => window.open("https://drive.google.com/file/d/1SYc3vaO16t5NeHCim5bGG-KK6LXaFy0u/view?usp=drive_link", "_blank")}
+                onClick={() => window.open("https://drive.google.com/file/d/1PRGbhxBypX2w2Xn4TL6vVyABmkS7fudx/view?usp=drive_link", "_blank")}
                
               >
                 <Download className="w-4 h-4 mr-2" />
@@ -548,7 +548,7 @@ export default function Portfolio() {
               <Button
                 size="sm"
                 className="w-full mt-2"
-                onClick={() => window.open("https://drive.google.com/file/d/1SYc3vaO16t5NeHCim5bGG-KK6LXaFy0u/view?usp=drive_link", "_blank")}
+                onClick={() => window.open("https://drive.google.com/file/d/1PRGbhxBypX2w2Xn4TL6vVyABmkS7fudx/view?usp=drive_link", "_blank")}
                
               >
                 <Download className="w-4 h-4 mr-2" />
